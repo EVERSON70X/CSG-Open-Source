@@ -1,0 +1,79 @@
+Geometry Rationale: Icosahedral Core with Spherical Shield
+
+This design intentionally combines an icosahedral internal neutronics structure with a spherical external shield to optimize both reactor performance and experimental flexibility.
+Core Geometry (Neutronics Optimization)
+
+    The internal structure uses a truncated icosahedral arrangement (32 discrete fusion source regions with structured breeder geometry).
+
+    This configuration produces a highly structured neutron field, which has been shown through OpenMC simulations to:
+
+        Significantly increase Tritium Breeding Ratio (TBR)
+
+        Enable favorable enrichment behavior (e.g., Li-6 ~50% outperforming higher enrichments)
+
+    The structured angular flux distribution is preserved within the breeder region and is central to the system’s neutronics performance.
+
+Spherical External Shield (Engineering Simplicity)
+
+    The outer shield is purely spherical, independent of the internal icosahedral structure.
+
+    Benefits of a spherical shield include:
+
+        Radially symmetric attenuation that is straightforward to analyze and engineer
+
+        Clean definition of detector or diagnostic radii
+
+        Simplified thermal, structural, and shielding calculations
+
+    The breeder region is fully contained well inside the shield radius.
+
+Diagnostic & Physics Ports (Optional Overlay)
+
+    A small number of diagnostic / physics experiment ports may be placed in the outer shield at a radius outside the tritium breeding region.
+
+    These ports:
+
+        Do not intersect the breeder
+
+        Do not alter the tritium-producing lithium inventory
+
+        Only affect neutron and gamma behavior after breeding has already occurred
+
+As a result, global TBR is expected to be unaffected within Monte Carlo uncertainty.
+
+From a neutronics standpoint, these ports perturb:
+
+    Local leakage
+
+    External dose fields
+
+    Detector backgrounds
+
+…but not the neutron balance that determines TBR.
+Validation Philosophy
+
+For completeness and reviewer-proof documentation, a representative validation step is planned:
+
+    Run OpenMC cases comparing:
+
+        Baseline icosahedral core + spherical shield
+
+        Same geometry with a representative detector port in the shield
+
+    Compare total TBR between cases
+
+Expected outcome:
+
+    ΔTBR within statistical uncertainty or at worst sub-percent
+
+    Allows the following statement to be made explicitly:
+
+    “Diagnostic ports and detector penetrations are located entirely outside the tritium breeding region and have negligible impact on global Tritium Breeding Ratio.”
+
+Why This Matters
+
+    Commercial mission remains clean: power generation, tritium self-sufficiency, and systems engineering come first.
+
+    Research flexibility is preserved: the structured neutron field enables optional experiments (e.g., rare-event detection, axion or dark-sector studies) without compromising reactor performance.
+
+    The architecture cleanly separates core function from instrumentation, which is ideal for both patents and open-source collaboration.
